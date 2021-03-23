@@ -1,0 +1,267 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Jigme Lodey",
+      "status": "Active",
+      "number": "77455740",
+      "email": "jigmelodey30@gmail.com",
+      "department": "Admin",
+      "gender": "Male",
+      "dob": "02/09/97",
+      "location": "Thimphu"
+    },
+    {
+      "id": 2,
+      "name": "Test Lodey",
+      "status": "Inactive",
+      "number": "77455740",
+      "email": "test@gmail.com",
+      "department": "Finance",
+      "gender": "Male",
+      "dob": "02/09/97",
+      "location": "Paro"
+    },
+    {
+      "id": 3,
+      "name": "Jigme Test",
+      "status": "Inactive",
+      "number": "77455740",
+      "email": "jigmetest@gmail.com",
+      "department": "Marketing",
+      "gender": "Female",
+      "dob": "02/09/97",
+      "location": "Dagana"
+    },
+    {
+      "id": 4,
+      "name": "Test4",
+      "status": "Active",
+      "number": "77455740",
+      "email": "test4@gmail.com",
+      "department": "Admin",
+      "gender": "Male",
+      "dob": "02/09/97",
+      "location": "Gasa"
+    },
+    {
+      "id": 5,
+      "name": "Test5",
+      "status": "Inactive",
+      "number": "77455740",
+      "email": "test5@gmail.com",
+      "department": "Management",
+      "gender": "Female",
+      "dob": "02/09/97",
+      "location": "Punakha"
+    },
+    {
+      "id": 6,
+      "name": "Some One",
+      "status": "Inactive",
+      "number": "77455740",
+      "email": "someone@gmail.com",
+      "department": "Sales",
+      "gender": "Female",
+      "dob": "02/09/97",
+      "location": "Samtse"
+    },
+    {
+      "id": 7,
+      "name": "Pema",
+      "status": "Active",
+      "number": "77455740",
+      "email": "pema@gmail.com",
+      "department": "Management",
+      "gender": "Male",
+      "dob": "02/09/97",
+      "location": "Zhemgang"
+    },
+    {
+      "id": 8,
+      "name": "Sonam",
+      "status": "Active",
+      "number": "77455740",
+      "email": "sonam@gmail.com",
+      "department": "Marketing",
+      "gender": "Male",
+      "dob": "02/09/97",
+      "location": "Bumtang"
+    },
+    {
+      "id": 9,
+      "name": "Dawa",
+      "status": "Inactive",
+      "number": "77455740",
+      "email": "dawa@gmail.com",
+      "department": "IT",
+      "gender": "Female",
+      "dob": "02/09/97",
+      "location": "Chhukha"
+    },
+    {
+      "id": 10,
+      "name": "Karma",
+      "status": "Active",
+      "number": "77455740",
+      "email": "karma@gmail.com",
+      "department": "IT",
+      "gender": "Male",
+      "dob": "02/09/97",
+      "location": "Haa"
+    },{
+      "id": 11,
+      "name": "Dorji",
+      "status": "Inactive",
+      "number": "77455740",
+      "email": "dorji@gmail.com",
+      "department": "IT",
+      "gender": "Male",
+      "dob": "02/09/97",
+      "location": "Lhuentse"
+    },
+    {
+      "id": 12,
+      "name": "Test Tashi",
+      "status": "Active",
+      "number": "77455740",
+      "email": "testtashi@gmail.com",
+      "department": "Management",
+      "gender": "Male",
+      "dob": "02/09/97",
+      "location": "Mongar"
+    },
+    {
+      "id": 13,
+      "name": "Kinga",
+      "status": "Active",
+      "number": "77455740",
+      "email": "kinga@gmail.com",
+      "department": "Finance",
+      "gender": "Female",
+      "dob": "02/09/97",
+      "location": "Paro"
+    },
+    {
+      "id": 14,
+      "name": "Drakpa",
+      "status": "Inactive",
+      "number": "77455740",
+      "email": "draks@gmail.com",
+      "department": "Sales",
+      "gender": "Female",
+      "dob": "02/09/97",
+      "location": "Pema Gatshel"
+    },
+    {
+      "id": 15,
+      "name": "Rinzin",
+      "status": "Active",
+      "number": "77455740",
+      "email": "rinzin@gmail.com",
+      "department": "IT",
+      "gender": "Male",
+      "dob": "02/09/97",
+      "location": "Punakha"
+    },
+    {
+      "id": 16,
+      "name": "Test Tandin",
+      "status": "Active",
+      "number": "77455740",
+      "email": "tandin@gmail.com",
+      "department": "IT",
+      "gender": "Male",
+      "dob": "02/09/97",
+      "location": "Samdrup Jongkhar"
+    },
+    {
+      "id": 17,
+      "name": "Sangay",
+      "status": "Inactive",
+      "number": "77455740",
+      "email": "sangay@gmail.com",
+      "department": "Management",
+      "gender": "Female",
+      "dob": "02/09/97",
+      "location": "Samtse"
+    },
+    {
+      "id": 18,
+      "name": "Test Chimey",
+      "status": "Active",
+      "number": "77455740",
+      "email": "chiey@gmail.com",
+      "department": "IT",
+      "gender": "Male",
+      "dob": "02/09/97",
+      "location": "Sarpang"
+    },
+    {
+      "id": 19,
+      "name": "Ninjay",
+      "status": "Active",
+      "number": "77455740",
+      "email": "ninjay@gmail.com",
+      "department": "IT",
+      "gender": "Male",
+      "dob": "02/09/97",
+      "location": "Trashigang"
+    },
+    {
+      "id": 20,
+      "name": "Test Gyeltsen",
+      "status": "Inactive",
+      "number": "77455740",
+      "email": "geltshen@gmail.com",
+      "department": "IT",
+      "gender": "Male",
+      "dob": "02/09/97",
+      "location": "Trashi Yangtse"
+    },
+    {
+      "id": 21,
+      "name": "Wangchuk",
+      "status": "Active",
+      "number": "77455740",
+      "email": "wangchuk@gmail.com",
+      "department": "Sales",
+      "gender": "Male",
+      "dob": "02/09/97",
+      "location": "Trongsa"
+    },
+    {
+      "id": 22,
+      "name": "Tenzin",
+      "status": "Active",
+      "number": "77455740",
+      "email": "tenzin@gmail.com",
+      "department": "IT",
+      "gender": "Female",
+      "dob": "02/09/97",
+      "location": "Tsirang"
+    },
+    {
+      "id": 23,
+      "name": "Thinley",
+      "status": "Active",
+      "number": "77455740",
+      "email": "thinley@gmail.com",
+      "department": "Sales",
+      "gender": "Male",
+      "dob": "02/09/97",
+      "location": "Wangdue Phodrang"
+    },
+    {
+      "id": 24,
+      "name": "Pema Tshering",
+      "status": "Inactive",
+      "number": "77455740",
+      "email": "pemastshering@gmail.com",
+      "department": "Management",
+      "gender": "Male",
+      "dob": "02/09/97",
+      "location": "Thimphu"
+    }
+  ]
+}

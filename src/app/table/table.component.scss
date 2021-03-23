@@ -1,0 +1,27 @@
+.container{
+  width: 100%;
+  padding: 30px;
+  .card-holder{
+    width: 100%;
+    padding: 20px;
+    .search{
+      mat-form-field{
+        width: 530px;
+      }
+    }
+    mat-card{
+      width: 100%;
+      padding: 20px;
+      table{
+        width: 100%;
+      }
+      .filter{
+        width: 100%;
+        padding: 10px;
+      }
+      .footer{
+        width: 100%;
+      }
+    }
+  }
+}
